@@ -1,0 +1,16 @@
+.block2{
+margin-left: -4px;
+width: 500px;  
+}
+.blocker{
+margin-left: 100px;
+margin-bottom: 200px;
+width: 1170px;
+height: 99px;
+background: #3D2451;
+}
+.img{
+  margin-left:40px;
+ display:inline-block;
+
+}

@@ -1,0 +1,45 @@
+html, body {
+margin:0;
+padding:0;
+}
+.block2{
+margin-left: -4px;
+width: 500px;  
+}
+.blocker{
+margin: 0;
+margin-left: 100px;
+margin-bottom: 200px;
+width: 1170px;
+height: 99px;
+background: #3D2451;
+}
+.imag{
+ position:absolute;
+  top: 8%;
+  left: 14%;
+mix-blend-mode: color-burn;
+  transform: translate(-50%, -50%);
+}
+.text{
+  /* Car Service */
+
+position: absolute;
+left: 19.44%;
+right: -19.44%;
+top: 2.17%;
+bottom: -8.62%;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: bold;
+font-size: 43px;
+line-height: 32px;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+color: #FFFFFF;
+}
+p{
+  margin: 0;
+	padding: 0 0 10px 0;
+}
