@@ -478,22 +478,7 @@
                 width: 300px;
                 height: 200px;
             }
-        }
-        
-        @media(max-width:400px) {
-            .work:first-child,
-             :nth-child(2),
-             :nth-child(3),
-             :last-child {
-                margin-right: 0;
-            }
-        }
-        
-        @media(max-width: 382px) {
-            .contacts_left_block {
-                height: 150px;
-            }
-.inner_type_of_works_1_block{
+                .inner_type_of_works_1_block{
                     flex-direction: column;
                   padding-right: 90px;
                    
@@ -524,5 +509,21 @@
                 justify-content: space-between;
 
             padding-left: 30px;
+        }
+        
+        @media(max-width:400px) {
+            .work:first-child,
+             :nth-child(2),
+             :nth-child(3),
+             :last-child {
+                margin-right: 0;
+            }
+        }
+        
+        @media(max-width: 382px) {
+            .contacts_left_block {
+                height: 150px;
+            }
+
 
         }
